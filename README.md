@@ -19,5 +19,5 @@ Welcome to my Data Analyst project portfolio! This repository contains a curated
 - Power BI / Tableau
 - Excel
 
-Want to collaborate or have feedback? Connect with me on [LinkedIn](https://linkedin.com/in/ARUNAGIRINATHAN-K).
+Want to collaborate or have feedback? Connect with me on [LinkedIn](https://linkedin.com/in/arunagirinathan-k).
 

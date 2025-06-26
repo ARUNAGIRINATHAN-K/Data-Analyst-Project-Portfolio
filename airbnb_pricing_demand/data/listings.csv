@@ -1,0 +1,121 @@
+City,Neighbourhood,Property_Type,Room_Type,Price,Minimum_Nights,Number_of_Reviews,Review_Score,Availability_365,Latitude,Longitude,Host_Since
+San Francisco,City Center,Condominium,Entire home/apt,179.94,1,41,66.2,223,39.383949,-112.122774,2020-11-14
+Boston,Downtown,Apartment,Private room,230.65,7,171,86.9,249,38.012177,-76.070411,2021-03-04
+Chicago,City Center,Loft,Shared room,415.4,4,31,83.9,35,37.58287,-106.424718,2021-11-01
+San Francisco,Downtown,Townhouse,Private room,432.96,5,85,94.0,346,38.932787,-78.032835,2022-02-01
+Chicago,Waterfront,Apartment,Entire home/apt,551.43,4,11,86.1,236,39.557027,-96.398916,2017-06-01
+Los Angeles,City Center,Apartment,Entire home/apt,527.14,10,78,63.0,160,40.795139,-89.830705,2019-10-19
+Chicago,Downtown,Condominium,Private room,37.73,9,75,90.5,255,40.130806,-110.692239,2022-05-12
+Los Angeles,Suburbs,Apartment,Entire home/apt,36.26,8,115,82.2,335,39.159442,-90.834939,2022-10-24
+Chicago,Waterfront,Condominium,Entire home/apt,268.71,10,98,69.5,73,39.489956,-89.643274,2015-04-29
+Boston,Waterfront,Condominium,Private room,528.34,1,2,63.1,118,37.453552,-89.908499,2021-11-15
+New York,Near Airport,Apartment,Shared room,213.13,3,21,77.7,332,40.315361,-86.450261,2018-12-18
+Los Angeles,City Center,Apartment,Shared room,42.13,1,190,95.7,272,37.068418,-97.151053,2022-01-08
+San Francisco,Waterfront,Loft,Entire home/apt,472.79,7,39,100.0,264,39.222811,-72.189353,2017-06-10
+New York,City Center,Loft,Shared room,521.58,6,32,68.4,350,37.656576,-108.429204,2020-01-26
+Chicago,Downtown,Townhouse,Entire home/apt,550.83,1,75,91.9,4,38.836908,-83.532516,2019-09-26
+Los Angeles,Waterfront,House,Shared room,333.22,2,178,86.9,283,39.070448,-114.111571,2023-02-23
+Chicago,Suburbs,Townhouse,Private room,225.24,3,135,93.0,306,37.282674,-82.659844,2017-05-30
+Boston,Waterfront,Townhouse,Entire home/apt,580.53,3,113,60.8,340,38.857816,-120.850723,2017-12-16
+Los Angeles,Near Airport,Condominium,Private room,41.64,1,78,65.6,223,40.202204,-101.058856,2018-02-10
+Los Angeles,Suburbs,Apartment,Private room,194.98,3,15,72.3,193,37.045308,-72.81966,2021-09-24
+Boston,Suburbs,Condominium,Shared room,300.47,6,19,83.6,304,37.478222,-76.833358,2019-12-08
+Los Angeles,Waterfront,Townhouse,Entire home/apt,260.83,1,130,73.4,291,38.986103,-115.849669,2015-04-03
+New York,Near Airport,Townhouse,Private room,173.99,3,145,94.3,93,40.419884,-98.073644,2022-11-25
+Boston,Suburbs,Apartment,Private room,549.91,10,107,93.3,205,40.240672,-84.161486,2018-12-07
+Chicago,Waterfront,Condominium,Shared room,479.39,7,129,72.6,238,38.264154,-91.771856,2019-09-21
+New York,Suburbs,Apartment,Entire home/apt,224.22,9,27,72.0,20,40.00099,-88.720861,2017-01-28
+Los Angeles,City Center,Townhouse,Shared room,230.03,5,166,66.0,222,37.655104,-118.730661,2015-01-04
+Chicago,Suburbs,Loft,Private room,450.45,7,97,85.1,340,37.956757,-71.865109,2017-09-16
+Boston,Suburbs,House,Entire home/apt,411.0,7,31,63.0,264,38.725605,-98.049358,2020-11-02
+Los Angeles,Downtown,Townhouse,Private room,348.1,10,76,65.6,70,39.889355,-80.807211,2022-05-02
+New York,Near Airport,House,Shared room,591.15,2,72,63.8,259,39.05596,-107.804327,2022-03-04
+Boston,Suburbs,House,Private room,398.29,6,75,82.2,318,38.697063,-112.323273,2022-06-03
+New York,Near Airport,Apartment,Shared room,42.93,1,144,92.6,351,37.455837,-102.682179,2017-02-03
+San Francisco,City Center,Condominium,Private room,489.33,10,172,86.3,166,40.899279,-83.692839,2018-02-27
+Boston,City Center,Condominium,Entire home/apt,320.17,7,120,85.0,255,38.960302,-77.424456,2017-10-13
+Los Angeles,Waterfront,House,Entire home/apt,357.13,3,88,78.6,307,40.853379,-97.700085,2019-06-13
+Boston,Suburbs,Loft,Shared room,376.35,5,42,97.6,108,37.317618,-95.841759,2018-06-02
+Boston,Near Airport,Apartment,Shared room,287.89,10,183,87.4,332,40.487636,-111.179098,2017-03-13
+Los Angeles,Near Airport,Townhouse,Private room,327.89,10,193,75.1,316,40.052282,-84.65218,2018-03-23
+Boston,Waterfront,Apartment,Private room,72.08,8,34,97.0,190,40.109062,-76.955873,2016-09-23
+New York,Suburbs,Loft,Entire home/apt,277.82,3,75,74.1,208,38.735375,-119.701131,2015-01-02
+New York,Waterfront,Apartment,Entire home/apt,280.35,6,118,83.2,276,38.736454,-105.528949,2016-07-12
+Boston,City Center,House,Private room,151.58,1,199,94.2,223,39.345234,-116.898544,2016-09-02
+Boston,City Center,House,Entire home/apt,164.36,5,126,74.8,91,38.931004,-95.789993,2017-02-15
+Chicago,Near Airport,Apartment,Shared room,474.13,9,23,74.5,342,38.92,-77.00627,2015-05-01
+Boston,Waterfront,Condominium,Private room,459.95,5,99,94.2,68,39.141116,-75.71912,2017-07-25
+New York,Suburbs,Loft,Entire home/apt,383.65,6,25,87.9,341,37.593322,-99.158236,2019-08-27
+Boston,Waterfront,Loft,Private room,425.64,4,143,97.5,134,39.616194,-82.089109,2020-10-05
+New York,Waterfront,Loft,Shared room,243.44,1,179,63.8,310,37.96723,-86.23268,2019-11-11
+San Francisco,Near Airport,Townhouse,Private room,102.69,3,21,67.2,18,39.543548,-106.274112,2016-03-16
+Los Angeles,Suburbs,Townhouse,Entire home/apt,492.72,2,53,61.1,21,38.945229,-87.500932,2020-06-05
+New York,Suburbs,Apartment,Shared room,411.38,8,42,99.6,259,37.217041,-121.342905,2015-11-26
+Chicago,Suburbs,Townhouse,Private room,240.51,9,107,89.6,223,39.249001,-108.687006,2016-11-27
+Boston,Near Airport,Apartment,Entire home/apt,243.9,10,139,80.0,269,39.745202,-87.768701,2021-10-30
+New York,Suburbs,Townhouse,Private room,198.99,5,108,91.9,205,39.006365,-89.95042,2020-02-08
+Los Angeles,Waterfront,House,Shared room,63.78,6,26,92.9,33,38.147952,-122.304128,2018-09-29
+San Francisco,City Center,Townhouse,Private room,256.05,5,17,77.2,145,39.799301,-76.073843,2018-01-18
+Chicago,City Center,Apartment,Entire home/apt,503.02,2,38,86.4,123,38.431876,-118.561046,2021-02-12
+Boston,Suburbs,Condominium,Shared room,95.91,6,104,72.4,135,40.779481,-117.412786,2019-06-30
+Los Angeles,Near Airport,Apartment,Private room,398.57,3,43,96.6,5,37.088387,-75.027057,2022-11-05
+Los Angeles,Suburbs,Loft,Shared room,534.65,2,15,60.9,164,38.105812,-84.112739,2022-10-04
+New York,Waterfront,Townhouse,Entire home/apt,223.84,2,155,73.2,136,39.921915,-99.923284,2015-12-04
+Boston,Suburbs,House,Entire home/apt,79.33,3,160,91.9,268,37.898184,-105.218717,2022-11-02
+Los Angeles,Near Airport,Townhouse,Private room,561.68,6,144,99.2,156,40.899406,-117.010349,2021-04-11
+Los Angeles,Near Airport,House,Shared room,575.48,9,173,88.7,303,37.42207,-84.808777,2019-04-11
+San Francisco,Suburbs,Apartment,Shared room,559.47,10,72,94.4,152,38.047869,-78.96623,2020-03-09
+Los Angeles,Near Airport,Loft,Private room,64.81,9,122,85.8,192,38.300664,-83.933636,2015-08-09
+Los Angeles,Near Airport,Townhouse,Private room,428.44,7,184,73.9,327,38.311074,-109.743095,2016-06-30
+Boston,Suburbs,Loft,Private room,60.15,4,52,69.7,52,39.878897,-101.578731,2019-06-29
+Chicago,City Center,Townhouse,Entire home/apt,227.07,1,160,84.2,177,38.551014,-97.541838,2023-03-01
+New York,Waterfront,Condominium,Private room,313.52,10,85,98.1,82,37.506525,-85.286369,2017-11-16
+Chicago,Downtown,Condominium,Private room,421.14,5,142,63.3,131,37.761836,-86.844407,2016-11-21
+San Francisco,Suburbs,Condominium,Entire home/apt,432.11,5,85,98.1,101,39.645584,-103.572316,2019-08-29
+New York,Suburbs,Loft,Shared room,160.97,9,70,95.4,246,37.85188,-101.526945,2020-07-18
+San Francisco,Waterfront,Condominium,Entire home/apt,540.53,7,4,62.7,141,39.152094,-83.562444,2020-01-11
+Chicago,Suburbs,Condominium,Private room,556.22,7,22,60.7,179,38.401632,-86.495817,2017-01-22
+San Francisco,Downtown,House,Private room,46.18,9,142,60.2,235,38.300827,-78.855781,2022-03-24
+Chicago,Waterfront,Townhouse,Entire home/apt,333.76,4,5,84.5,85,40.576112,-77.184503,2015-06-15
+Boston,Waterfront,Loft,Entire home/apt,197.7,7,56,92.1,160,39.495768,-115.431158,2015-05-17
+San Francisco,City Center,Condominium,Shared room,334.03,9,88,60.7,112,40.746992,-102.260602,2017-08-15
+San Francisco,Waterfront,House,Shared room,497.2,9,102,91.5,56,39.036938,-106.03346,2021-12-27
+Los Angeles,Suburbs,Condominium,Private room,573.58,2,151,69.3,171,38.123512,-119.770445,2020-10-04
+New York,Near Airport,Townhouse,Entire home/apt,480.07,9,24,87.2,9,38.100687,-108.574463,2020-01-21
+Boston,Waterfront,Apartment,Entire home/apt,503.44,3,178,64.3,184,40.690749,-83.569981,2022-12-09
+San Francisco,Near Airport,House,Shared room,300.67,4,145,83.0,161,39.734085,-115.256103,2017-01-24
+Los Angeles,Suburbs,House,Private room,512.96,7,132,99.9,359,40.196505,-89.367663,2021-06-17
+San Francisco,City Center,Loft,Private room,486.72,8,103,65.3,31,37.747712,-73.444317,2018-05-18
+Boston,Near Airport,Townhouse,Shared room,87.75,9,34,64.5,197,38.795356,-71.606394,2016-10-02
+Los Angeles,Near Airport,Condominium,Shared room,293.37,10,15,65.0,81,39.642145,-119.572103,2018-07-15
+New York,Waterfront,Condominium,Private room,54.06,3,82,68.0,181,38.084904,-97.773376,2021-11-06
+Boston,City Center,Condominium,Shared room,457.74,5,1,97.2,28,37.562879,-122.12025,2019-12-02
+San Francisco,City Center,Condominium,Entire home/apt,423.97,2,149,84.9,304,38.496697,-88.309426,2017-08-09
+San Francisco,Near Airport,Townhouse,Shared room,336.5,2,157,80.0,197,40.128056,-108.01807,2018-11-03
+New York,Suburbs,Townhouse,Shared room,345.24,9,41,95.0,72,40.385342,-94.926883,2019-03-13
+New York,Waterfront,Apartment,Private room,107.92,6,92,62.0,27,39.25591,-98.755543,2019-08-09
+Boston,City Center,Townhouse,Shared room,372.14,4,95,89.9,71,40.336039,-109.244631,2018-12-04
+Chicago,Downtown,House,Private room,185.01,6,168,81.4,217,39.068359,-71.317277,2021-08-21
+Boston,Waterfront,Loft,Shared room,37.4,5,191,79.5,23,37.319257,-103.684271,2021-10-26
+Chicago,Downtown,Apartment,Private room,125.17,7,155,94.0,273,39.722089,-92.752426,2015-05-20
+New York,Suburbs,House,Private room,190.8,10,139,96.5,229,40.529138,-81.738626,2017-04-27
+New York,Waterfront,Loft,Entire home/apt,455.85,9,8,69.7,11,38.290322,-114.874243,2018-07-14
+Los Angeles,Waterfront,House,Entire home/apt,352.65,1,181,71.4,103,40.591035,-116.708718,2022-11-21
+Los Angeles,Suburbs,Loft,Private room,309.25,7,175,80.1,193,38.315636,-98.480433,2022-05-24
+Boston,Downtown,House,Shared room,351.95,1,73,71.7,359,38.610435,-93.356307,2017-10-19
+Los Angeles,City Center,Loft,Private room,288.49,8,142,73.9,266,38.519711,-118.844498,2017-10-20
+Los Angeles,Near Airport,Loft,Entire home/apt,111.01,9,67,61.8,238,38.062673,-89.72607,2015-02-18
+Boston,City Center,Condominium,Private room,178.88,1,172,77.7,63,37.441972,-76.567042,2016-04-29
+Chicago,Waterfront,Apartment,Private room,157.03,1,36,64.3,354,37.703213,-78.199293,2017-04-29
+Boston,Waterfront,Townhouse,Private room,113.16,1,96,95.9,150,37.726098,-82.019269,2015-11-12
+Los Angeles,Downtown,House,Entire home/apt,378.33,4,198,79.1,306,40.17269,-78.647148,2018-11-03
+San Francisco,Suburbs,Townhouse,Shared room,209.28,7,184,91.6,42,39.768357,-112.650497,2015-05-17
+Chicago,Downtown,Apartment,Entire home/apt,172.01,4,144,89.9,25,37.427897,-78.526055,2022-03-22
+Chicago,Waterfront,House,Shared room,371.19,5,182,60.8,131,39.894579,-100.159442,2016-02-03
+Boston,Near Airport,Townhouse,Shared room,397.27,7,41,81.1,115,38.088457,-82.824447,2019-12-11
+New York,Downtown,Loft,Private room,373.25,10,188,75.6,13,40.295611,-71.4817,2016-01-25
+San Francisco,City Center,House,Shared room,528.53,9,3,87.0,58,38.854993,-72.697449,2019-05-18
+Boston,Downtown,House,Shared room,399.68,9,164,81.7,359,39.601603,-117.734762,2016-09-09
+Boston,Suburbs,Loft,Shared room,488.72,7,75,84.3,276,40.791215,-91.263664,2022-03-08
+Chicago,Downtown,Condominium,Private room,372.36,8,92,87.4,99,37.653643,-82.759721,2017-07-23
+San Francisco,Waterfront,Apartment,Entire home/apt,145.24,8,94,68.7,232,40.633635,-101.80211,2020-03-09

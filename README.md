@@ -8,8 +8,8 @@ Welcome to my Data Analyst project portfolio! This repository contains a curated
 |--|----------------|-------------|-------------|
 | 1 | [Customer Churn Analysis](Customer_Churn_Analysis) | Predict why telecom customers leave and suggest retention strategies. | Python, Pandas, Power BI |
 | 2 | [Netflix Watch Pattern](Netflix-WatchPattern-Analytics) | Analyze user behavior to detect genre and binge patterns. | Python, Power BI |
-| 3 | E-commerce Return Prediction | Build a model to predict product returns. | Python, Scikit-learn |
-| 4 | Airbnb Pricing Analysis | Understand pricing factors across listings. | SQL, Python, Tableau |
+| 3 | [E-commerce Return Prediction](ecommerce-return-prediction) | Build a model to predict product returns. | Python, Scikit-learn |
+| 4 | [Airbnb Pricing Analysis](airbnb_pricing_demand) | Understand pricing factors across listings. | SQL, Python, Tableau |
 | 5 | YouTube Channel Dashboard | Visual dashboard for monitoring channel metrics. | Power BI, Excel |
 
 ## 🧰 Tools & Technologies
